@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo 1080\bin\Debug\net8.0\algoritmo 1080.exe
+C:\Users\User\source\repos\algoritmo 1080\bin\Debug\net8.0\algoritmo 1080.deps.json
+C:\Users\User\source\repos\algoritmo 1080\bin\Debug\net8.0\algoritmo 1080.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo 1080\bin\Debug\net8.0\algoritmo 1080.dll
+C:\Users\User\source\repos\algoritmo 1080\bin\Debug\net8.0\algoritmo 1080.pdb
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.dll
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\refint\algoritmo 1080.dll
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.pdb
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\algoritmo 1080.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo 1080\obj\Debug\net8.0\ref\algoritmo 1080.dll
