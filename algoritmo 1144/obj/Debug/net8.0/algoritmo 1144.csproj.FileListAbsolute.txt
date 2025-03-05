@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo 1144\bin\Debug\net8.0\algoritmo 1144.exe
+C:\Users\User\source\repos\algoritmo 1144\bin\Debug\net8.0\algoritmo 1144.deps.json
+C:\Users\User\source\repos\algoritmo 1144\bin\Debug\net8.0\algoritmo 1144.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo 1144\bin\Debug\net8.0\algoritmo 1144.dll
+C:\Users\User\source\repos\algoritmo 1144\bin\Debug\net8.0\algoritmo 1144.pdb
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.dll
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\refint\algoritmo 1144.dll
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.pdb
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\algoritmo 1144.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo 1144\obj\Debug\net8.0\ref\algoritmo 1144.dll
