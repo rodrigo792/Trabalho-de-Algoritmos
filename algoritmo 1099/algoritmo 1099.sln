@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritmo 1099", "algoritmo 1099.csproj", "{62392690-9A49-4CC9-8625-16C3262CF9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62392690-9A49-4CC9-8625-16C3262CF9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62392690-9A49-4CC9-8625-16C3262CF9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62392690-9A49-4CC9-8625-16C3262CF9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62392690-9A49-4CC9-8625-16C3262CF9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14F2DA7-9E80-4CD8-8C25-232BD77FDAF1}
+	EndGlobalSection
+EndGlobal

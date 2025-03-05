@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo 1094\bin\Debug\net8.0\algoritmo 1094.exe
+C:\Users\User\source\repos\algoritmo 1094\bin\Debug\net8.0\algoritmo 1094.deps.json
+C:\Users\User\source\repos\algoritmo 1094\bin\Debug\net8.0\algoritmo 1094.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo 1094\bin\Debug\net8.0\algoritmo 1094.dll
+C:\Users\User\source\repos\algoritmo 1094\bin\Debug\net8.0\algoritmo 1094.pdb
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.dll
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\refint\algoritmo 1094.dll
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.pdb
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\algoritmo 1094.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo 1094\obj\Debug\net8.0\ref\algoritmo 1094.dll
