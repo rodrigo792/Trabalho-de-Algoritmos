@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo1151\bin\Debug\net8.0\algoritmo1151.exe
+C:\Users\User\source\repos\algoritmo1151\bin\Debug\net8.0\algoritmo1151.deps.json
+C:\Users\User\source\repos\algoritmo1151\bin\Debug\net8.0\algoritmo1151.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo1151\bin\Debug\net8.0\algoritmo1151.dll
+C:\Users\User\source\repos\algoritmo1151\bin\Debug\net8.0\algoritmo1151.pdb
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.dll
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\refint\algoritmo1151.dll
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.pdb
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\algoritmo1151.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo1151\obj\Debug\net8.0\ref\algoritmo1151.dll

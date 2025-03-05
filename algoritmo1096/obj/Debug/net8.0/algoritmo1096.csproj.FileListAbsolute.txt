@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo1096\bin\Debug\net8.0\algoritmo1096.exe
+C:\Users\User\source\repos\algoritmo1096\bin\Debug\net8.0\algoritmo1096.deps.json
+C:\Users\User\source\repos\algoritmo1096\bin\Debug\net8.0\algoritmo1096.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo1096\bin\Debug\net8.0\algoritmo1096.dll
+C:\Users\User\source\repos\algoritmo1096\bin\Debug\net8.0\algoritmo1096.pdb
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.dll
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\refint\algoritmo1096.dll
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.pdb
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\algoritmo1096.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo1096\obj\Debug\net8.0\ref\algoritmo1096.dll
