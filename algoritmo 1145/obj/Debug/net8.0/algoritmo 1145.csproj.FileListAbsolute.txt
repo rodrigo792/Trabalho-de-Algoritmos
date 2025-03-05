@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo 1145\bin\Debug\net8.0\algoritmo 1145.exe
+C:\Users\User\source\repos\algoritmo 1145\bin\Debug\net8.0\algoritmo 1145.deps.json
+C:\Users\User\source\repos\algoritmo 1145\bin\Debug\net8.0\algoritmo 1145.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo 1145\bin\Debug\net8.0\algoritmo 1145.dll
+C:\Users\User\source\repos\algoritmo 1145\bin\Debug\net8.0\algoritmo 1145.pdb
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.dll
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\refint\algoritmo 1145.dll
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.pdb
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\algoritmo 1145.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo 1145\obj\Debug\net8.0\ref\algoritmo 1145.dll
