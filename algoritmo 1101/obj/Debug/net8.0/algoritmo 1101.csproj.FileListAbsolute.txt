@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo 1101\bin\Debug\net8.0\algoritmo 1101.exe
+C:\Users\User\source\repos\algoritmo 1101\bin\Debug\net8.0\algoritmo 1101.deps.json
+C:\Users\User\source\repos\algoritmo 1101\bin\Debug\net8.0\algoritmo 1101.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo 1101\bin\Debug\net8.0\algoritmo 1101.dll
+C:\Users\User\source\repos\algoritmo 1101\bin\Debug\net8.0\algoritmo 1101.pdb
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.dll
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\refint\algoritmo 1101.dll
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.pdb
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\algoritmo 1101.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo 1101\obj\Debug\net8.0\ref\algoritmo 1101.dll
